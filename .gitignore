@@ -1,0 +1,4 @@
+# Ignorer le dossier ipynb_checkpoints
+/.ipynb_checkpoints
+/slides
+/__pycache__
